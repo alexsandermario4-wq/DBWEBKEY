@@ -34,6 +34,13 @@ const axiosOpt = {
 
 let users = [
   {
+    username: "max",
+    password: "132",
+    role: "mods",
+    createdAt: 1761490570165,
+    expired: 1769266570165
+  },
+  {
     username: "mac",
     password: "123",
     role: "mods",
