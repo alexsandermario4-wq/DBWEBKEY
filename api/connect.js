@@ -17,7 +17,7 @@ const OWNER_CHAT_ID = "7950114253";
 
 const IS_MAINTENANCE = true;
 const BYPASS_ROLES = ["developer"];
-export const INFO_TEXT = "Yang menang itu yang di private, bukan di public #WanzOfficial";
+export const INFO_TEXT = "Selamat datang di panel resmi Marz dev";
 
 const config = {
   domain: "http://xzellxopz.raflyhosting.my.id",
