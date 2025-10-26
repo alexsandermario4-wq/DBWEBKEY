@@ -21,7 +21,7 @@ export const INFO_TEXT = "Yang menang itu yang di private, bukan di public #Wanz
 
 const config = {
   domain: "http://xzellxopz.raflyhosting.my.id",
-  port: 3089,
+  port: 3095,
   creator: "Wanz Official", //JANGAN GANTI, NTAR EROR NYALAHIN GUA
 };
 const base = `${config.domain}:${config.port}`;
