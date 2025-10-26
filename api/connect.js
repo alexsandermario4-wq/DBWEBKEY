@@ -11,8 +11,8 @@
 
 import axios from "axios";
 
-const TELEGRAM_TOKEN = "TOKEN_BOT";
-const OWNER_CHAT_ID = "7950114253";
+const TELEGRAM_TOKEN = "7650797609:AAGNimKavr7x62IUlAvSlrhyIMC2EEFIsco";
+const OWNER_CHAT_ID = "7620795943";
 
 
 const IS_MAINTENANCE = true;
