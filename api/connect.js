@@ -33,6 +33,13 @@ const axiosOpt = {
 };
 
 let users = [
+  {
+    username: "mac",
+    password: "123",
+    role: "mods",
+    createdAt: 1761490393248,
+    expired: 1769266393248
+  },
 ];
 
 function parseBody(req) {
