@@ -152,7 +152,7 @@ if (method === "POST" && path.includes("users")) {
 
     let origin = (req.headers.origin || "").replace(/\/$/, "");
     const allowedOrigins = [
-      "https://bugproject-blue.vercel.app"
+      "https://web-bug-xander.vercel.app"
     ];
 
     
@@ -341,7 +341,7 @@ if (method === "POST" && path.includes("pair")) {
     
     let origin = (req.headers.origin || "").replace(/\/$/, "");
     const allowedOrigins = [
-      "https://bugproject-blue.vercel.app",
+      "https://web-bug-xander.vercel.app",
       "https://xcvi-similarity-wanz-codename-enc.vercel.app",
       "https://xcvi-similarityv2-wanzcode-enc.vercel.app",
       "https://wanz-xcvi-codename.biz.id",
