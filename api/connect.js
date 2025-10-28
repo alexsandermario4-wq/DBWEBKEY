@@ -20,7 +20,7 @@ const BYPASS_ROLES = ["developer"];
 export const INFO_TEXT = "Selamat datang di panel resmi Marz dev";
 
 const config = {
-  domain: "http://xzellxopz.raflyhosting.my.id",
+  domain: "http://laysukalisaprivate.privatboy.biz.id",
   port: 4230,
   creator: "Wanz Official", //JANGAN GANTI, NTAR EROR NYALAHIN GUA
 };
