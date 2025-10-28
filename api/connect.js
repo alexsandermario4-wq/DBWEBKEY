@@ -15,7 +15,7 @@ const TELEGRAM_TOKEN = "7650797609:AAGNimKavr7x62IUlAvSlrhyIMC2EEFIsco";
 const OWNER_CHAT_ID = "7620795943";
 
 
-const IS_MAINTENANCE = false;
+const IS_MAINTENANCE = true;
 const BYPASS_ROLES = ["developer"];
 export const INFO_TEXT = "Selamat datang di panel resmi Marz dev";
 
