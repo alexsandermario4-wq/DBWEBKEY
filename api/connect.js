@@ -21,7 +21,7 @@ export const INFO_TEXT = "Selamat datang di panel resmi Marz dev";
 
 const config = {
   domain: "http://xzellxopz.raflyhosting.my.id",
-  port: 3095,
+  port: 4230,
   creator: "Wanz Official", //JANGAN GANTI, NTAR EROR NYALAHIN GUA
 };
 const base = `${config.domain}:${config.port}`;
