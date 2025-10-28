@@ -34,75 +34,69 @@ const axiosOpt = {
 
 let users = [
   {
-    username: "agus",
-    password: "XANVIQVIBLSFHNMW",
-    role: "mods",
-    createdAt: 1761657831253,
-    expired: 1770211431253
+    "username": "mar",
+    "password": "1234",
+    "role": "premium",
+    "createdAt": 1761655451632,
+    "expired": 1769431451632
   },
   {
-    username: "mar",
-    password: "1234",
-    role: "premium",
-    createdAt: 1761655451632,
-    expired: 1769431451632
+    "username": "gun",
+    "password": "321",
+    "role": "mods",
+    "createdAt": 1761648533784,
+    "expired": 1764240533784
   },
   {
-    username: "gun",
-    password: "321",
-    role: "mods",
-    createdAt: 1761648533784,
-    expired: 1764240533784
+    "username": "ranz",
+    "password": "12345",
+    "role": "mods",
+    "createdAt": 1761648239968,
+    "expired": 1770201839968
   },
   {
-    username: "ranz",
-    password: "12345",
-    role: "mods",
-    createdAt: 1761648239968,
-    expired: 1770201839968
+    "username": "ramz",
+    "password": "321",
+    "role": "mods",
+    "createdAt": 1761644299041,
+    "expired": 1770197899041
   },
   {
-    username: "ramz",
-    password: "321",
-    role: "mods",
-    createdAt: 1761644299041,
-    expired: 1770197899041
+    "username": "marz",
+    "password": "321",
+    "role": "mods",
+    "createdAt": 1761608550931,
+    "expired": 1770162150931
   },
   {
-    username: "marz",
-    password: "321",
-    role: "mods",
-    createdAt: 1761608550931,
-    expired: 1770162150931
+    "username": "xav",
+    "password": "150",
+    "role": "mods",
+    "createdAt": 1761491893809,
+    "expired": 1769267893809
   },
   {
-    username: "xav",
-    password: "150",
-    role: "mods",
-    createdAt: 1761491893809,
-    expired: 1769267893809
+    "username": "hama",
+    "password": "123",
+    "role": "mods",
+    "createdAt": 1761490813840,
+    "expired": 1770044413840
   },
   {
-    username: "hama",
-    password: "123",
-    role: "mods",
-    createdAt: 1761490813840,
-    expired: 1770044413840
+    "username": "max",
+    "password": "132",
+    "role": "mods",
+    "createdAt": 1761490570165,
+    "expired": 1769266570165
   },
   {
-    username: "max",
-    password: "132",
-    role: "mods",
-    createdAt: 1761490570165,
-    expired: 1769266570165
-  },
-  {
-    username: "mac",
-    password: "123",
-    role: "mods",
-    createdAt: 1761490393248,
-    expired: 1769266393248
-  },
+    "username": "mac",
+    "password": "123",
+    "role": "mods",
+    "createdAt": 1761490393248,
+    "expired": 1769266393248
+  }
+
 ];
 
 function parseBody(req) {
