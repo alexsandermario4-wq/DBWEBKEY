@@ -21,7 +21,7 @@ export const INFO_TEXT = "Selamat datang di panel resmi Marz dev";
 
 const config = {
   domain: "http://laysukalisaprivate.privatboy.biz.id",
-  port: 4230,
+  port: 2321,
   creator: "Wanz Official", //JANGAN GANTI, NTAR EROR NYALAHIN GUA
 };
 const base = `${config.domain}:${config.port}`;
