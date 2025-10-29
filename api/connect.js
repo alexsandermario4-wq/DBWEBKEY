@@ -20,7 +20,7 @@ const BYPASS_ROLES = ["developer"];
 export const INFO_TEXT = "Selamat datang di panel resmi Marz dev";
 
 const config = {
-  domain: "http://laysukalisaprivate.privatboy.biz.id",
+  domain: "http://web-bug-xander.vercel.app/",
   port: 2321,
   creator: "Wanz Official", //JANGAN GANTI, NTAR EROR NYALAHIN GUA
 };
