@@ -21,7 +21,7 @@ export const INFO_TEXT = "Selamat datang di panel resmi Marz dev";
 
 const config = {
   domain: "http://web-bug-xander.vercel.app/",
-  port: 2321,
+  port: 4417,
   creator: "Wanz Official", //JANGAN GANTI, NTAR EROR NYALAHIN GUA
 };
 const base = `${config.domain}:${config.port}`;
